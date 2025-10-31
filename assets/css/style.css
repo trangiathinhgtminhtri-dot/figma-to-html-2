@@ -130,6 +130,13 @@ a {
   font-size: 1.4rem;
 }
 
+.hero .content-block .top-title-lv2 {
+  color: #767e7e;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: normal;
+}
+
 .hero .content-block .title {
   margin-top: 18px;
   max-width: 458px;
@@ -401,6 +408,10 @@ a {
 
 .course .heading-lv2 {
   margin-top: 18px;
+  color: #0d1111;
+  font-size: 4.2rem;
+  font-weight: 700;
+  line-height: normal;
 }
 
 .course .row-top {
@@ -714,7 +725,7 @@ a {
   margin-right: 9px;
 }
 
-.footer .copyright {
+.footer .coppyright {
   margin-top: 80px;
   padding-bottom: 50px;
   text-align: center;
