@@ -672,11 +672,11 @@ a {
 
 /* ----------------------------footer---------------- */
 .footer {
-  background: #fff;
+  background-color: #fff;
 }
 
 .footer .row-top {
-  padding: 131px 0;
+  padding: 131px 0 0;
   display: flex;
   justify-content: space-between;
 }
@@ -705,11 +705,16 @@ a {
   line-height: normal;
 }
 
+.footer .list-item5 a {
+  display: flex;
+  align-items: center;
+}
+
 .footer .list .social-icon {
   margin-right: 9px;
 }
 
-.footer .coppyright {
+.footer .copyright {
   margin-top: 80px;
   padding-bottom: 50px;
   text-align: center;
